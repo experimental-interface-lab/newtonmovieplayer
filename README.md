@@ -14,7 +14,7 @@ Files
 - **providence.rsrc** (after unzipping): Holds image and audio content. All but 3 PICT resources are movie image frames, the others are interface elements.
 - **nmp_data**: Loads image frames into an array and audio into a constant.
 - **nmp_layout**: Mac NTK layout file. Of note is the value for sampleticks in the PlayButton buttonClickScript: this corresponds to the length of your movie (1 second = 60 Newton ticks).
-- **nmp_project**: Mac NTK project file.
+- **nmp_project** (after unzipping): Mac NTK project file.
 - **nmp_demo.pkg**: A built package, ready for installation on your MP2x00.
 
 
