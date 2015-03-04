@@ -1,7 +1,7 @@
 Newton Movie Player 2.0
 =======================
 
-This repository hosts the Mac Newton Toolkit (NTK) source code for Newton Movie Player 2.0. Originally developed by Lee Moon around 1997 (and later extended by Brad Tober around 2001), this code provides a template for creating Newton apps that play short video clips. In essence, Newton Movie Player plays an audio track while simultaneously progressing through a sequence of image frames.
+This repository hosts the Mac Newton Toolkit (NTK) source code for Newton Movie Player 2.0. Originally developed by Lee Moon around 1997 (and later extended by Brad Tober around 2001), this code provides a template for creating Newton apps that play short video clips. In essence, Newton Movie Player plays an audio track while simultaneously progressing through a sequence of images.
 
 This demonstration plays the opening titles to NBC's [Providence](http://en.wikipedia.org/wiki/Providence_%28TV_series%29).
 
@@ -42,9 +42,9 @@ License
 
 Newton Movie Player 2.0 is licensed under The MIT License.
 
-Copyright (c) 2001, 2015
-Experimental Interface Lab <http://www.experimentalinterfacelab.org>
-Brad Tober <http://www.bradtober.com>
+Copyright (c) 2001, 2015  
+Experimental Interface Lab <http://www.experimentalinterfacelab.org>  
+Brad Tober <http://www.bradtober.com>  
 
-Copyright (c) 1997
+Copyright (c) 1997  
 Lee Moon
