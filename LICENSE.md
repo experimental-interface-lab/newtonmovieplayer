@@ -1,11 +1,11 @@
 The MIT License (MIT)
 
-Copyright (c) 2001, 2015
-Experimental Interface Lab <http://www.experimentalinterfacelab.org>
+Copyright (c) 2001, 2015  
+Experimental Interface Lab <http://www.experimentalinterfacelab.org>  
 Brad Tober <http://www.bradtober.com>
 
-Copyright (c) 1997
-Lee Moon
+Copyright (c) 1997  
+Lee Moon  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in

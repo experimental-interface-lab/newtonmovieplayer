@@ -44,7 +44,7 @@ Newton Movie Player 2.0 is licensed under The MIT License.
 
 Copyright (c) 2001, 2015  
 Experimental Interface Lab <http://www.experimentalinterfacelab.org>  
-Brad Tober <http://www.bradtober.com>  
+Brad Tober <http://www.bradtober.com>
 
 Copyright (c) 1997  
 Lee Moon
