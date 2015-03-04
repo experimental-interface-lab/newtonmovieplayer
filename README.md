@@ -11,7 +11,7 @@ You will need an MP2x00 to play NMP 2.0 movie packages.
 Files
 -----
 
-- **providence.rsrc**: Holds image and audio content. All but 3 PICT resources are movie image frames, the others are interface elements.
+- **providence.rsrc** (after unzipping): Holds image and audio content. All but 3 PICT resources are movie image frames, the others are interface elements.
 - **nmp_data**: Loads image frames into an array and audio into a constant.
 - **nmp_layout**: Mac NTK layout file. Of note is the value for sampleticks in the PlayButton buttonClickScript: this corresponds to the length of your movie (1 second = 60 Newton ticks).
 - **nmp_project**: Mac NTK project file.
